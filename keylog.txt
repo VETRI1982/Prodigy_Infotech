@@ -1,0 +1,1 @@
+hello[space]my[space]name[space]is[space]qwerty[space][esc][space][shift][space][enter][alt_r][cmd_r][ctrl]c
